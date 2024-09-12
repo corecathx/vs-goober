@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nathan.png"><SubTexture name="nathan idle0000" x="0" y="0" width="365" height="318" frameX="0" frameY="0" frameWidth="365" frameHeight="318" />
+<SubTexture name="nathan down0000" x="365" y="0" width="311" height="226" frameX="0" frameY="0" frameWidth="311" frameHeight="226" />
+<SubTexture name="nathan left0000" x="0" y="318" width="360" height="342" frameX="0" frameY="0" frameWidth="360" frameHeight="342" />
+<SubTexture name="nathan right0000" x="360" y="318" width="356" height="338" frameX="0" frameY="0" frameWidth="356" frameHeight="338" />
+<SubTexture name="nathan big0000" x="0" y="660" width="434" height="340" frameX="0" frameY="0" frameWidth="434" frameHeight="340" />
+<SubTexture name="nathan up0000" x="434" y="660" width="804" height="685" frameX="0" frameY="0" frameWidth="804" frameHeight="685" />
+</TextureAtlas>

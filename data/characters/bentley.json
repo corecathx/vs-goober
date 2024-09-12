@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"animPrefix": "singLEFT",
+			"fpsValue": 24,
+			"indices": [],
+			"looping": false,
+			"offset": [
+				291,
+				-50
+			],
+			"animName": "bentley left"
+		},
+		{
+			"animPrefix": "singDOWN",
+			"fpsValue": 24,
+			"indices": [],
+			"looping": false,
+			"offset": [
+				239,
+				-61
+			],
+			"animName": "bentley down"
+		},
+		{
+			"animPrefix": "singRIGHT",
+			"fpsValue": 24,
+			"indices": [],
+			"looping": false,
+			"offset": [
+				220,
+				-63
+			],
+			"animName": "bentley right"
+		},
+		{
+			"animPrefix": "singUP",
+			"fpsValue": 24,
+			"indices": [],
+			"looping": true,
+			"offset": [
+				254,
+				-60
+			],
+			"animName": "bentley up"
+		},
+		{
+			"animPrefix": "talking",
+			"fpsValue": 7,
+			"indices": [],
+			"looping": true,
+			"offset": [
+				239,
+				-80
+			],
+			"animName": "bentley talking"
+		},
+		{
+			"animPrefix": "idle",
+			"fpsValue": 12,
+			"indices": [],
+			"looping": false,
+			"offset": [
+				300,
+				-50
+			],
+			"animName": "bentley idle"
+		}
+	],
+	"healthBarColor": [
+		175,
+		102,
+		206
+	],
+	"spritePath": "characters/bentley",
+	"singHoldTime": 6.1,
+	"charXYPosition": [
+		0,
+		0
+	],
+	"flipX": false,
+	"charScale": 1,
+	"usingAntialiasing": true,
+	"camXYPos": [
+		0,
+		390
+	],
+	"iconName": "idk"
+}

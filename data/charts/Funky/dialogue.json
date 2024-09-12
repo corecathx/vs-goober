@@ -1,0 +1,14 @@
+{
+	"dialog": [
+		["bf","welcome to breaking into someones house at three am","normal", 0.05, "r", "normal", [0, 0, false]],
+		["goober","how did you get inside my house?","normal", 0.05, "l", "Goober ?", [-580, 250, false]],
+		["bf","the front door was open. i just walked in.","normal", 0.05, "r", "normal", [0, 0, false]],
+		["Goober","oh","normal", 0.05, "l", "Goober stupid", [-580, 250, false]],
+		["bf","yeah","normal", 0.05, "r", "normal", [0, 0, false]],
+		["bf","WAIT YOUR THE GUY FROM FNF","normal", 0.05, "r", "normal", [0, 0, false]],
+		["bf","yeah","normal", 0.05, "r", "normal", [0, 0, false]],
+		["bf","can we rap battle","normal", 0.05, "r", "normal", [0, 0, false]],
+		["bf","thats littarly what i came here for","normal", 0.05, "r", "normal", [0, 0, false]]
+	],
+	"music":"breakfast"
+}

@@ -1,0 +1,3 @@
+Focuses camera on both characters
+
+val1: "true" to lock, "false" to release

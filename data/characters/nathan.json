@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"animPrefix": "singLEFT",
+			"fpsValue": 24,
+			"indices": [],
+			"looping": false,
+			"offset": [
+				-219,
+				-320
+			],
+			"animName": "nathan left"
+		},
+		{
+			"animPrefix": "singDOWN",
+			"fpsValue": 24,
+			"indices": [],
+			"looping": false,
+			"offset": [
+				-281,
+				-441
+			],
+			"animName": "nathan down"
+		},
+		{
+			"animPrefix": "singUP",
+			"fpsValue": 24,
+			"indices": [],
+			"looping": false,
+			"offset": [
+				-6,
+				-60
+			],
+			"animName": "nathan up"
+		},
+		{
+			"animPrefix": "singRIGHT",
+			"fpsValue": 24,
+			"indices": [],
+			"looping": false,
+			"offset": [
+				0,
+				-63
+			],
+			"animName": "nahan right"
+		},
+		{
+			"animPrefix": "idle",
+			"fpsValue": 24,
+			"indices": [],
+			"looping": false,
+			"offset": [
+				-70,
+				-370
+			],
+			"animName": "nathan idle"
+		},
+		{
+			"animPrefix": "big",
+			"fpsValue": 24,
+			"indices": [],
+			"looping": false,
+			"offset": [
+				-70,
+				-319
+			],
+			"animName": "nathan big"
+		}
+	],
+	"healthBarColor": [
+		175,
+		102,
+		206
+	],
+	"spritePath": "characters/nathan",
+	"singHoldTime": 6.1,
+	"charXYPosition": [
+		0,
+		0
+	],
+	"flipX": false,
+	"charScale": 1,
+	"usingAntialiasing": true,
+	"camXYPos": [
+		0,
+		390
+	],
+	"iconName": "dad"
+}

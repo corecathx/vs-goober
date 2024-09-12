@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="goober.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Idle0000" x="1523" y="313" width="259" height="314" frameX="-230" frameY="-203" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="Idle0001" x="268" y="1044" width="270" height="308" frameX="-225" frameY="-206" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="Idle0002" x="538" y="1044" width="261" height="308" frameX="-229" frameY="-206" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="Idle0003" x="1523" y="627" width="260" height="311" frameX="-230" frameY="-204" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="Idle0004" x="1523" y="938" width="259" height="311" frameX="-230" frameY="-204" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="Down0000" x="326" y="436" width="304" height="292" frameX="-209" frameY="-225" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="Down0001" x="0" y="749" width="300" height="295" frameX="-210" frameY="-221" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="Right0000" x="1240" y="0" width="283" height="305" frameX="-216" frameY="-213" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="Right0001" x="1240" y="305" width="282" height="305" frameX="-216" frameY="-213" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="Left0000" x="0" y="1044" width="268" height="313" frameX="-233" frameY="-205" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="Left0001" x="1523" y="0" width="265" height="313" frameX="-235" frameY="-206" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="Up0000" x="0" y="0" width="292" height="436" frameX="-194" frameY="-91" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="AltRight0000" x="0" y="436" width="326" height="313" frameX="-197" frameY="-203" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="AltRight0001" x="602" y="0" width="334" height="309" frameX="-193" frameY="-205" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="AltLeft0000" x="936" y="335" width="287" height="310" frameX="-274" frameY="-215" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="AltLeft0001" x="1240" y="610" width="280" height="302" frameX="-276" frameY="-218" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="AltDown0001" x="300" y="749" width="347" height="218" frameX="-233" frameY="-303" frameWidth="720" frameHeight="720"/>
+        <SubTexture name="AltDown0000" x="647" y="749" width="359" height="207" frameX="-225" frameY="-315" frameWidth="720" frameHeight="720"/> 
+  	<SubTexture name="AltUp0000" x="292" y="0" width="310" height="340" frameX="-181" frameY="-182" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="AltUp0001" x="936" y="0" width="304" height="335" frameX="-189" frameY="-185" frameWidth="720" frameHeight="720"/>
+</TextureAtlas>

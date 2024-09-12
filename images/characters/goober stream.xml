@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="goober stream.png">
+<SubTexture name="goober stream idle0000" x="755" y="0" width="390" height="470" frameX="-468" frameY="-250" frameWidth="1280" frameHeight="720" />
+<SubTexture name="goober stream idle0001" x="1145" y="0" width="396" height="463" frameX="-453" frameY="-257" frameWidth="1280" frameHeight="720" />
+<SubTexture name="goober stream idle0002" x="381" y="494" width="385" height="464" frameX="-458" frameY="-256" frameWidth="1280" frameHeight="720" />
+<SubTexture name="goober stream up0000" x="0" y="0" width="372" height="494" frameX="-454" frameY="-226" frameWidth="1280" frameHeight="720" />
+<SubTexture name="goober stream up0001" x="766" y="494" width="372" height="456" frameX="-454" frameY="-264" frameWidth="1280" frameHeight="720" />
+<SubTexture name="goober stream down0000" x="741" y="963" width="372" height="425" frameX="-454" frameY="-295" frameWidth="1280" frameHeight="720" />
+<SubTexture name="goober stream down0001" x="0" y="963" width="372" height="454" frameX="-454" frameY="-266" frameWidth="1280" frameHeight="720" />
+<SubTexture name="goober stream left0000" x="372" y="963" width="369" height="452" frameX="-437" frameY="-268" frameWidth="1280" frameHeight="720" />
+<SubTexture name="goober stream left0001" x="1145" y="463" width="362" height="457" frameX="-462" frameY="-263" frameWidth="1280" frameHeight="720" />
+<SubTexture name="goober stream right0000" x="0" y="494" width="381" height="469" frameX="-471" frameY="-251" frameWidth="1280" frameHeight="720" />
+<SubTexture name="goober stream right0001" x="372" y="0" width="383" height="478" frameX="-452" frameY="-242" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

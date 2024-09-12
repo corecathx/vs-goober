@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-340,
+		-30
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "Goober talk",
+			"idle_name": "Goober talk0000"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_name": "Goober happy",
+			"idle_name": "Goober happy0000"
+		},
+		{
+			"loop_name": "Goober stupid af",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Goober stupid af0000",
+			"anim": "Stupid af",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Goober ?",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Goober ?0000",
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Goober"
+}

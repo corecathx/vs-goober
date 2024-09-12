@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "ef",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				6857.14285714286,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "bg",
+		"bpm": 140,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Hardcore"
+	}
+}

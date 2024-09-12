@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"animPrefix": "idle",
+			"fpsValue": 12,
+			"indices": [],
+			"looping": true,
+			"offset": [
+				340,
+				0
+			],
+			"animName": "bg idle"
+		}
+	],
+	"healthBarColor": [
+		175,
+		102,
+		206
+	],
+	"spritePath": "characters/bg",
+	"singHoldTime": 6.1,
+	"charXYPosition": [
+		0,
+		0
+	],
+	"flipX": false,
+	"charScale": 1,
+	"usingAntialiasing": true,
+	"camXYPos": [
+		0,
+		0
+	],
+	"iconName": "dad"
+}

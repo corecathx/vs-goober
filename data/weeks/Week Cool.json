@@ -1,0 +1,87 @@
+{
+	"weekTxtImgPath": "aaa",
+	"disableFreeplay": false,
+	"tracks": [
+		"Funky",
+		"Strike",
+		"Crazy",
+		"Chill"
+	],
+	"weekDifficulties": [
+		"ez"
+	],
+	"weekCharacters": [
+		"Goober",
+		"bf",
+		"gf"
+	],
+	"charSetting": [
+		{
+			"scale": 0.65,
+			"position": [
+				-112.5,
+				-204.5
+			],
+			"flipX": true
+		},
+		{
+			"scale": 0.6,
+			"position": [
+				736.5,
+				106
+			],
+			"flipX": false
+		},
+		{
+			"scale": 0.5,
+			"position": [
+				289.5,
+				-154
+			],
+			"flipX": false
+		}
+	],
+	"freeplaySongs": [
+		{
+			"colors": [
+				155,
+				80,
+				55
+			],
+			"bpm": 120,
+			"character": "icon-ass",
+			"song": "Funky"
+		},
+		{
+			"colors": [
+				155,
+				80,
+				55
+			],
+			"bpm": 120,
+			"character": "icon-ass",
+			"song": "Strike"
+		},
+		{
+			"colors": [
+				155,
+				80,
+				55
+			],
+			"song": "Crazy",
+			"character": "icon-ass",
+			"bpm": 120
+		},
+		{
+			"colors": [
+				155,
+				80,
+				55
+			],
+			"song": "Chill",
+			"character": "icon-ass",
+			"bpm": 120
+		}
+	],
+	"weekName": "its here guys"
+}

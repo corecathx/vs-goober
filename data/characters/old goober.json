@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"animName": "Goober1 right",
+			"fpsValue": 24,
+			"looping": false,
+			"offset": [
+				239,
+				-61
+			],
+			"animPrefix": "singRIGHT",
+			"indices": []
+		},
+		{
+			"animName": "Goober1 talking",
+			"fpsValue": 7,
+			"looping": true,
+			"offset": [
+				239,
+				-62
+			],
+			"animPrefix": "talking",
+			"indices": []
+		},
+		{
+			"animName": "Goober1 idle",
+			"fpsValue": 12,
+			"looping": false,
+			"offset": [
+				239,
+				-61
+			],
+			"animPrefix": "idle",
+			"indices": []
+		},
+		{
+			"animName": "Goober1 left",
+			"fpsValue": 24,
+			"looping": false,
+			"offset": [
+				239,
+				-61
+			],
+			"animPrefix": "singLEFT",
+			"indices": []
+		},
+		{
+			"animName": "Goober1 down",
+			"fpsValue": 24,
+			"looping": false,
+			"offset": [
+				239,
+				-61
+			],
+			"animPrefix": "singDOWN",
+			"indices": []
+		}
+	],
+	"healthBarColor": [
+		175,
+		102,
+		206
+	],
+	"spritePath": "characters/Goober1",
+	"singHoldTime": 6.1,
+	"charXYPosition": [
+		40,
+		-400
+	],
+	"flipX": false,
+	"charScale": 0.2,
+	"usingAntialiasing": true,
+	"camXYPos": [
+		100,
+		910
+	],
+	"iconName": "Icon-ass"
+}

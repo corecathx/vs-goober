@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"animName": "goober stream left",
+			"fpsValue": 24,
+			"looping": false,
+			"offset": [
+				221,
+				80
+			],
+			"animPrefix": "singLEFT",
+			"indices": []
+		},
+		{
+			"animName": "goober stream idle",
+			"fpsValue": 12,
+			"looping": false,
+			"offset": [
+				230,
+				80
+			],
+			"animPrefix": "idle",
+			"indices": []
+		},
+		{
+			"animName": "goober stream down",
+			"fpsValue": 12,
+			"looping": false,
+			"offset": [
+				219,
+				79
+			],
+			"animPrefix": "singDOWN",
+			"indices": []
+		},
+		{
+			"animName": "goober stream up",
+			"fpsValue": 24,
+			"looping": false,
+			"offset": [
+				224,
+				80
+			],
+			"animPrefix": "singUP",
+			"indices": []
+		},
+		{
+			"animName": "goober stream right",
+			"fpsValue": 24,
+			"looping": false,
+			"offset": [
+				220,
+				80
+			],
+			"animPrefix": "singRIGHT",
+			"indices": []
+		}
+	],
+	"healthBarColor": [
+		75,
+		45,
+		30
+	],
+	"spritePath": "characters/goober stream",
+	"singHoldTime": 6.1,
+	"charXYPosition": [
+		0,
+		0
+	],
+	"flipX": false,
+	"charScale": 1,
+	"usingAntialiasing": true,
+	"camXYPos": [
+		20,
+		50
+	],
+	"iconName": "icon-ass"
+}

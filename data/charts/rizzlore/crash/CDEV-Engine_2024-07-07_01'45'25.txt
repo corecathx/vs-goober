@@ -1,0 +1,14 @@
+C:\HaxeToolkit\haxe\std/cpp/_std/sys/io/File.hx (line 30)
+meta/modding/chart_editor/ChartingState.hx (line 2249)
+meta/modding/chart_editor/ChartingState.hx (line 2215)
+meta/modding/chart_editor/ChartingState.hx (line 1152)
+flixel/FlxState.hx (line 222)
+flixel/FlxGame.hx (line 752)
+flixel/FlxGame.hx (line 682)
+flixel/FlxGame.hx (line 556)
+game/system/FunkinGame.hx (line 21)
+openfl/events/EventDispatcher.hx (line 444)
+openfl/display/DisplayObject.hx (line 1400)
+
+Engine Version: 1.6.3
+Error: [file_contents,cdev-mods/Vs Goober/data/characters/goober stream.json]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FNF_main_menu_assets.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="about white0000" x="0" y="1417" width="570" height="420" frameX="-345" frameY="-151" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="about basic0000" x="570" y="1417" width="446" height="288" frameX="-405" frameY="-215" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="story mode white0000" x="0" y="0" width="1229" height="424" frameX="-13" frameY="-148" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="story mode basic0000" x="0" y="847" width="1118" height="285" frameX="-67" frameY="-216" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="optiwhites white0000" x="1229" y="0" width="961" height="423" frameX="-142" frameY="-149" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="optiwhites basic0000" x="0" y="1132" width="845" height="285" frameX="-199" frameY="-216" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="youtube white0000" x="0" y="424" width="1064" height="423" frameX="-100" frameY="-149" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="youtube basic0000" x="1118" y="847" width="1007" height="285" frameX="-114" frameY="-216" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="freeplay white0000" x="1229" y="423" width="954" height="423" frameX="-144" frameY="-150" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="freeplay basic0000" x="845" y="1132" width="835" height="284" frameX="-202" frameY="-218" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

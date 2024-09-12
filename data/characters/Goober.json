@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"fpsValue": 12,
+			"animName": "Left",
+			"looping": false,
+			"indices": [],
+			"animPrefix": "singLEFT",
+			"offset": [
+				63,
+				-149
+			]
+		},
+		{
+			"fpsValue": 12,
+			"animName": "Down",
+			"looping": false,
+			"indices": [],
+			"animPrefix": "singDOWN",
+			"offset": [
+				43,
+				-150
+			]
+		},
+		{
+			"fpsValue": 12,
+			"animName": "Right",
+			"looping": false,
+			"indices": [],
+			"animPrefix": "singRIGHT",
+			"offset": [
+				60,
+				-148
+			]
+		},
+		{
+			"fpsValue": 12,
+			"animName": "Idle",
+			"looping": false,
+			"indices": [],
+			"animPrefix": "idle",
+			"offset": [
+				63,
+				-152
+			]
+		},
+		{
+			"fpsValue": 12,
+			"animName": "AltUp",
+			"looping": false,
+			"indices": [],
+			"animPrefix": "singUP-alt",
+			"offset": [
+				63,
+				-152
+			]
+		},
+		{
+			"fpsValue": 12,
+			"animName": "AltLeft",
+			"looping": false,
+			"indices": [],
+			"animPrefix": "singLEFT-alt",
+			"offset": [
+				62,
+				-153
+			]
+		},
+		{
+			"fpsValue": 12,
+			"animName": "AltRight",
+			"looping": false,
+			"indices": [],
+			"animPrefix": "singRIGHT-alt",
+			"offset": [
+				62,
+				-150
+			]
+		},
+		{
+			"fpsValue": 12,
+			"animName": "AltDown",
+			"looping": false,
+			"indices": [],
+			"animPrefix": "singDOWN-alt",
+			"offset": [
+				63,
+				-153
+			]
+		},
+		{
+			"animPrefix": "singUP",
+			"fpsValue": 12,
+			"indices": [],
+			"looping": false,
+			"offset": [
+				73,
+				-152
+			],
+			"animName": "AltUp"
+		}
+	],
+	"healthBarColor": [
+		130,
+		90,
+		68
+	],
+	"spritePath": "characters/goober",
+	"singHoldTime": 6.1,
+	"charXYPosition": [
+		100,
+		200
+	],
+	"flipX": true,
+	"charScale": 1.5,
+	"usingAntialiasing": true,
+	"camXYPos": [
+		-320,
+		0
+	],
+	"iconName": "icon-ass"
+}
